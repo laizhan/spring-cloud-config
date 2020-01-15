@@ -6,4 +6,4 @@ spring:
     name: spring-cloud-config-client
 
 app:
-  id: 10000
+  id: 10001
