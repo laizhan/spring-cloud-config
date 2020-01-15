@@ -6,9 +6,4 @@ spring:
     name: spring-cloud-config-client
 
 app:
-  id: 10004
-
-
-security: 
-  basic:
-    enabled: false
+  id: 10005
