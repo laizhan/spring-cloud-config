@@ -7,3 +7,8 @@ spring:
 
 app:
   id: 10003
+
+
+security: 
+  basic:
+    enabled: false
