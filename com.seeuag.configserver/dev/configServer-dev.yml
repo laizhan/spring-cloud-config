@@ -4,9 +4,3 @@ server:
 spring:
   application:
     name: spring-cloud-config-client
-
-management:
-  endpoints:
-    web:
-      exposure:
-        include: refresh
